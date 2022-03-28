@@ -8,12 +8,12 @@ font-family: "Vampiro One";
 font-weight: bold;}
 
 p {
-    font-size: 20pt;
+    font-size: 10pt;
     text-align: center;
 }
 
 .fade-in {
-    border: 10px outset rgb(255, 255, 255);
+    border: none
     background-color: rgb(255, 255, 255);
     text-align: center;
     animation-name: FadeIn;
