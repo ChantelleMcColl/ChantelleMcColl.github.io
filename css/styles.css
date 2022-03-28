@@ -13,8 +13,8 @@ p {
 }
 
 .fade-in {
-    border: 5px outset white;
-    background-color: white;
+    border: 10px outset rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
     text-align: center;
     animation-name: FadeIn;
     animation-duration: 3s;
