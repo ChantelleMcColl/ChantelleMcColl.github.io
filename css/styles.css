@@ -13,7 +13,7 @@ p {
 }
 
 .fade-in {
-    border: none;
+    border: none !important;
     background-color: rgb(255, 255, 255);
     text-align: center;
     animation-name: FadeIn;
