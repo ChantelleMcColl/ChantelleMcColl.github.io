@@ -7,6 +7,9 @@ font-size: 50pt;
 font-family: "Vampiro One";
 font-weight: bold;}
 
+p { font-size: 30pt;
+text-align: center;}
+
 .fade-in {
     animation-name: FadeIn;
     animation-duration: 3s;
