@@ -45,6 +45,7 @@ p {font-size: 10pt;}
 
 .fade-in {
     border-style: none !important;
+    background-color: transparent;
     text-align: center;
     animation-name: FadeIn;
     animation-duration: 3s;
