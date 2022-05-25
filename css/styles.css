@@ -1,8 +1,18 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Vampiro+One&display=swap');
+body {
+background-color: bisque;  
+}
 
 h2 { margin-bottom: 0%;
     color: #ff6600;
+text-align: center;
+font-size: 50pt;
+font-family: "Vampiro One";
+font-weight: bold;}
+
+.links {margin-bottom: 0%;
+  color: #ff6600;
 text-align: center;
 font-size: 50pt;
 font-family: "Vampiro One";
