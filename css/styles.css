@@ -15,7 +15,23 @@ font-size: 50pt;
 font-family: "Vampiro One";
 font-weight: bold;}
 
-a {margin-bottom: 0%;
+a:link {margin-bottom: 0%;
+  color: #ff6600;
+text-align: center;
+font-size: 30pt;
+font-family: "Vampiro One";
+font-weight: bold;
+background-color:bisque;}
+
+a:hover {margin-bottom: 0%;
+  color: #ff8534;
+text-align: center;
+font-size: 30pt;
+font-family: "Vampiro One";
+font-weight: bold;
+background-color:bisque;}
+
+a:active {margin-bottom: 0%;
   color: #ff6600;
 text-align: center;
 font-size: 30pt;
