@@ -6,7 +6,6 @@ background-color: bisque;
 }
 .background {
   background-color: bisque; 
-  overflow: hidden;
   border-style: hidden;
 
 }
@@ -46,7 +45,6 @@ p {font-size: 10pt;}
 
 .fade-in {
     border-style: none !important;
-    background-color: rgb(255, 255, 255);
     text-align: center;
     animation-name: FadeIn;
     animation-duration: 3s;
