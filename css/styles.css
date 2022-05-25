@@ -4,8 +4,9 @@
 body {
 background-color: bisque;  
 }
-.info {
-  background-color: bisque;
+.background {
+  background-color: bisque; 
+  overflow: hidden;
 }
 
 h2 { margin-bottom: 0%;
