@@ -38,6 +38,12 @@ background-color:bisque;}
 
 p {font-size: 10pt;}
 
+image {
+  opacity: 0.7;
+  max-width: 100%;  
+height: auto;  
+}
+
 .fade-in {
     border-style: none !important;
     background-color: transparent;
